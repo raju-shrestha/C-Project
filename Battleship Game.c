@@ -3,7 +3,8 @@
 Battleship is a guessing game for two players (a computer and a person).
 It is played on ruled grids on which each player's fleet of ships (including battleships) are marked.
 The locations of the fleets are concealed from the other player.
-Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
+Players alternate turns calling "shots" at the other player's ships,
+and the objective of the game is to destroy the opposing player's fleet.
 	
 #include<stdio.h>
 #include<stdlib.h>

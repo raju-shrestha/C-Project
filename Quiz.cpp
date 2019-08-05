@@ -1,3 +1,7 @@
+# Quiz
+Quiz Game is a simple console application. In this game number of questions are asked to the player,
+and the player is awarded a prize for each correct answer given.
+
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>
